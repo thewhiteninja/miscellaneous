@@ -1,2 +1,2 @@
 # miscellaneous
-Collection of subprojects that are not big enough to warrant their own repository or just old projects
+Collection of subprojects and scripts or just old projects
